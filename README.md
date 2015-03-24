@@ -1,2 +1,1 @@
-# Test
-Test
+This is a public test repository
